@@ -10,4 +10,4 @@ My current [blog](./blog/index.md)
 
 Email: clarissa DOT castanon AT gmail DOT com
 
-*resume available upon [request](mailto:clarissa.castanon@gmail.com?subject=[castanon.io]%20Resume%20Request)*
+*Curriculum Vitae available upon [request](mailto:clarissa.castanon@gmail.com?subject=[castanon.io]%20Resume%20Request)*
