@@ -1,6 +1,4 @@
-## Completed Works
-
-My Research/Presentations:
+## Published Works
 
 [Influenza pneumonia complicated by diffuse alveolar hemorrhage](./completed-works/influenza-pneumonia.md)
 
