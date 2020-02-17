@@ -1,6 +1,10 @@
 ## Completed Works
 
-My [Research/Presentations](./completed-works/index.md)
+My Research/Presentations:
+
+[Influenza pneumonia complicated by diffuse alveolar hemorrhage](./completed-works/influenza-pneumonia.md)
+
+[A Case of Clozapine Induced Constrictive Pericarditis](./completed-works/constrictive-pericarditis.md)
 
 ## Blog
 
