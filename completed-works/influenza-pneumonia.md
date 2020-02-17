@@ -1,5 +1,7 @@
 # Title: A Case of Diffuse Alveolar Hemorrhage in the Absence of Vasculitis
 
+**Author: Clarissa Castanon, MD Division of Hospital Medicine**
+
 ## Introduction
 
 Diffuse alveolar hemorrhage (DAH) is a life threatening condition of the lung usually associated with vasculitic disorders and connective tissue diseases. It is less commonly seen in infections. DAH is the result of injury to the alveolar capillaries, venules and arterioles where red blood cells accumulate in the alveoli. Clinically, DAH is comprised of hemoptysis, anemia, diffuse pulmonary infiltrates and acute hypoxic respiratory failure.  Diagnosis is made via bronchoscopy and Broncheoalveolar lavage. We report a case of influenza Pneumonia complicated by diffuse alveolar hemorrhage.

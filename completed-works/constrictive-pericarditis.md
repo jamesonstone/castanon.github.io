@@ -1,8 +1,10 @@
 # A Case of Clozapine Induced Constrictive Pericarditis
 
-Author: Clarissa Castanon, MD Division of Hospital Medicine
+**Author: Clarissa Castanon, MD Division of Hospital Medicine**
 
-Case Presentation: A 72 year old female with a medical history of anxiety, hypertension, and hypothyroidism presented to the Emergency Room with a complaint of persistent shortness of breath at rest beginning 3 days prior. Additionally, Patient reported generalized myalgias, repeated low-grade fevers, chills, and reflux-like pain in her chest in conjunction with the onset of shortness of breath. Patient also noted paroxysmal nocturnal dyspnea with no visible leg swelling. Patient noted her breathing improved when leaning forward. Patient had recently traveled to Croatia, Greece and Italy 2 weeks prior to the onset of her symptoms. Patient denied recent exposure to sick contacts or recent use of antibiotics. Patient denied tobacco, alcohol or illicit drug use.
+## Case Presentation
+
+A 72 year old female with a medical history of anxiety, hypertension, and hypothyroidism presented to the Emergency Room with a complaint of persistent shortness of breath at rest beginning 3 days prior. Additionally, Patient reported generalized myalgias, repeated low-grade fevers, chills, and reflux-like pain in her chest in conjunction with the onset of shortness of breath. Patient also noted paroxysmal nocturnal dyspnea with no visible leg swelling. Patient noted her breathing improved when leaning forward. Patient had recently traveled to Croatia, Greece and Italy 2 weeks prior to the onset of her symptoms. Patient denied recent exposure to sick contacts or recent use of antibiotics. Patient denied tobacco, alcohol or illicit drug use.
 
 Patients medications included: clozapine 50mg daily, amlodipine 5mg daily, atenolol 50mg daily, levothyroxine 125mcgs daily, and sertraline 50mg daily. Patient noted the recent addition of Clozapine beginning 2 months prior to the time of presentation.
 
@@ -12,9 +14,13 @@ Patient treatment started with antibiotics for pneumonia, in addition to a left 
 
 One month post hospitalization she was seen in the cardiology clinic with improvement in dyspnea. A repeat chest X-ray showed resolution of the pleural effusions. Her follow up echocardiogram showed reduction in the pericardial effusion but persistent thickening of the pericardium. She is currently on a slow steroid taper and is due for a repeat echo in one month.
 
-Discussion: Clozapine induced pericarditis is an extremely rare adverse effect with few case reports found in the medical literature. Clinicians should look for signs and symptoms of tachycardia, dyspnea, chest pain and malaise in patients taking clozapine. Cessation of clozapine is imperative when treating clozapine induced pericarditis in addition to indomethacin, colchicine, and steroids.
+## Discussion
 
-Conclusion: Making the diagnosis of clozapine induced cardiac adverse effects like pericarditis requires a high degree of clinical suspicion. Medications are often overlooked as causes of disease, and as a result it is of tantamount importance to review a patient’s list of medications in conjunction with their symptoms when preparing a diagnosis.
+Clozapine induced pericarditis is an extremely rare adverse effect with few case reports found in the medical literature. Clinicians should look for signs and symptoms of tachycardia, dyspnea, chest pain and malaise in patients taking clozapine. Cessation of clozapine is imperative when treating clozapine induced pericarditis in addition to indomethacin, colchicine, and steroids.
+
+## Conclusion
+
+Making the diagnosis of clozapine induced cardiac adverse effects like pericarditis requires a high degree of clinical suspicion. Medications are often overlooked as causes of disease, and as a result it is of tantamount importance to review a patient’s list of medications in conjunction with their symptoms when preparing a diagnosis.
 
 *Author Disclosures: None*
 
