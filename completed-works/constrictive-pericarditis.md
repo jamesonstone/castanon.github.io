@@ -17,3 +17,5 @@ Discussion: Clozapine induced pericarditis is an extremely rare adverse effect w
 Conclusion: Making the diagnosis of clozapine induced cardiac adverse effects like pericarditis requires a high degree of clinical suspicion. Medications are often overlooked as causes of disease, and as a result it is of tantamount importance to review a patient’s list of medications in conjunction with their symptoms when preparing a diagnosis.
 
 *Author Disclosures: None*
+
+![presentation](../images/constrictive.png)

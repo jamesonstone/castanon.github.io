@@ -1,3 +1,3 @@
-## Blog Index
+## Blog
 
-Current blog items
+Coming Soon!
